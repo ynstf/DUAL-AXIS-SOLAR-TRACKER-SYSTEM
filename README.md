@@ -1,1 +1,2 @@
-# Suiveur de Soleil à Base d’une Carte Arduino UNO
+la conception, la simulation et la réalisation d’un suiveur solaire à deux axes pour un système photovoltaïque à Base d’une Carte Arduino UNO, afin d’améliorer au maximum son rendement énergétique.
+Afin de collecter le maximum d’énergie, on utilise des dispositifs dits systèmes de poursuite solaires ou suiveurs solaires ou « trackers solaires », construit par des capteurs LDR, deux Servomoteur et une plaque photovoltaïque.
