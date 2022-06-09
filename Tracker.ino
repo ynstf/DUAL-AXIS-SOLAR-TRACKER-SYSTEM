@@ -15,7 +15,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+
   ldr1 = analogRead(A0);
   ldr2 = analogRead(A1);
 
